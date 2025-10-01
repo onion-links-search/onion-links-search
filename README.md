@@ -21,7 +21,7 @@ Official link: **http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad
 _"For Canadians, this is the only market you need. The admin team responds fast, forum community is active, and you get what you pay for."_
 
 #### 2. **Nexus Market**  
-Official link: **http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion**
+Official link: **http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion**
 
 **Nexus** has earned a reputation across darknet forums for keeping things simple, safe, and reliable. The market’s minimalism cuts out bloat and focuses on fast, anonymous transactions.
 
@@ -37,7 +37,7 @@ _"I've bought from Nexus several times – the review system works, vendors resp
 
 Darknet is always shifting. Many “lists” online are outdated or just bait for scammers. Currently, searches for new markets tend to lead people into honeypots or phishing operations.
 
-- **Trust only working, reviewed markets.** Right now, **http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion** and **http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion** are the only two that consistently deliver on safety and uptime.
+- **Trust only working, reviewed markets.** Right now, **http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion** and **http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion** are the only two that consistently deliver on safety and uptime.
 - **Never trust random onion links.** Use only verified, official links as listed here.
 
 ---
@@ -51,7 +51,7 @@ _"Many of us moved our business to We The North and Nexus after losing funds on 
 ### Onion Links Search FAQ
 
 - **Where can I get safe onion links?**  
-  Only use: **http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion** and **http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion**
+  Only use: **http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion** and **http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion**
 
 - **How do these markets keep users safe?**  
   Both use dynamic wallet addresses, mandatory escrow, multi-factor authentication, and rule enforcement.
@@ -61,4 +61,4 @@ _"Many of us moved our business to We The North and Nexus after losing funds on 
 
 ---
 
-If you want a market that puts buyer and seller safety first, saves time, and cuts out scams, your **onion links search** really only needs two entries: **We The North Market (http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion)** and **Nexus Market (http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)**.
+If you want a market that puts buyer and seller safety first, saves time, and cuts out scams, your **onion links search** really only needs two entries: **We The North Market (http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion)** and **Nexus Market (http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion)**.
